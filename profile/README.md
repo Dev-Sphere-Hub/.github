@@ -6,7 +6,7 @@ Bienvenido a **Freelance Dev Sphere Hub**, el epicentro cósmico para freelancer
 
 En **Dev Sphere**, creemos que cada proyecto es una misión en el mundo del desarrollo digital. Nuestro equipo está formado por desarrolladores especializados (freelancers) listos para llevar tus ideas a cabo.
 
-## 🌈 Especialidades Galácticas
+## 🌈 Especialidades
 
 Nuestras estaciones espaciales están equipadas con tecnología de punta en:
 
@@ -15,11 +15,11 @@ Nuestras estaciones espaciales están equipadas con tecnología de punta en:
 - **UX/UI**: Diseñando interfaces que capturan corazones.
 - **QA Testing**: Explorando y controlando que los requisitos de calidad se cumplan de acuerdo a los planes.
 
-## 💻 Proyectos en Órbita
+## 💻 Proyectos Desarrollados
 
-Explora nuestros [Proyectos Actuales](sphere-web-masters.vercel.app/).
+Explora nuestros [Proyectos Actuales](https://sphere-web-masters.vercel.app/).
 
 ## 📞 Contacto
 
-¿Tienes preguntas?. Contáctanos en [devsphereweb@gmail.com](devsphereweb@gmail.com).
+¿Tienes preguntas?. Contáctanos en [devsphereweb@gmail.com](mailto:devsphereweb@gmail.com?subject=Consulta).
 

@@ -5,7 +5,7 @@ Bienvenido a **Freelance Dev Sphere Hub**, el epicentro cósmico para freelancer
 ## 📜 Índice Estelar
 
 - [🌠 Sobre Nosotros](#sobre-nosotros)
-- [🌈 Especialidades Galácticas](#especialidades-galácticas)
+- [🌈 Especialidades Interestelares](#especialidades-galácticas)
 - [👾 Cómo Unirse a la Misión](#cómo-unirse-a-la-misión)
 - [📐 Protocolos Cósmicos](#protocolos-cósmicos)
 - [🚀 Proyectos en Órbita](#proyectos-en-órbita)
@@ -16,8 +16,7 @@ Bienvenido a **Freelance Dev Sphere Hub**, el epicentro cósmico para freelancer
 
 En **Freelance Galaxy Hub**, creemos que cada proyecto es una misión en el vasto universo del desarrollo digital. Nuestro equipo está formado por astronautas especializados (también conocidos como freelancers) listos para llevar tus ideas a la estratósfera.
 
-## 🌈 Especialidades Galácticas
-
+## 🌈 Especialidades Interestelares
 Nuestras estaciones espaciales están equipadas con tecnología de punta en:
 
 - **Front-end**: Creando galaxias visuales con HTML, CSS y JavaScript.

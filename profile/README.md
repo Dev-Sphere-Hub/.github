@@ -10,14 +10,14 @@ En **Dev Sphere**, creemos que cada proyecto es una misión en el mundo del desa
 
 Nuestras estaciones espaciales están equipadas con tecnología de punta en:
 
-- **Front-end**: Creando entornos visuales con HTML, CSS y JavaScript y React.
+- **Front-end**: Creando entornos visuales con Tailwind CSS, JavaScript, Typescript, React JS y Next JS.
 - **Back-end**: Manteniendo la fuerza de nuestros servidores con Node.js, Python, etc.
 - **UX/UI**: Diseñando interfaces que capturan corazones.
 - **QA Testing**: Explorando y controlando que los requisitos de calidad se cumplan de acuerdo a los planes.
 
 ## 💻 Proyectos Desarrollados
 
-Explora nuestros [Proyectos Actuales](https://sphere-web-masters.vercel.app/).
+Explora nuestros [Proyectos Actuales](https://sphere-web-masters.vercel.app/proyectos.html).
 
 ## 📞 Contacto
 
